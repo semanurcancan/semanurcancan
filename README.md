@@ -2,6 +2,7 @@
 <h3 align="center">A full time frontend learner from Turkey</h3>
 
 - 🌱 I’m currently learning **Javascript and frontend tech.**
+- 🚀I'm in Front-End Web Development Bootcamp Prep Training with KODLUYORUZ
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,4 +13,4 @@
 
 
 
-🚀I'm in Front-End Web Development Bootcamp Prep Training with KODLUYORUZ
+
