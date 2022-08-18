@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Semanur</h1>
-<h3 align="center">A full time frontend learner from Turkey</h3>
+<h3 align="center">A full time frontend learner</h3>
 
-- 🌱 I’m currently learning **Javascript and frontend tech.**
-- 🚀I'm in Front-End Web Development Bootcamp Training with KODLUYORUZ
+- 🌱 I’m currently learning **Javascript, react, tailwind  and frontend tech.**
+- 🚀I'm in Front-End Web Development Bootcamp Training with KODLUYORUZ. 
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
