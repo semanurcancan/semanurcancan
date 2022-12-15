@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Semanur</h1>
 <h3 align="center">Frondend Developer </h3>
 
-- 🌱 I’m currently learning **Javascript, react, tailwind  and frontend tech.**
-- 🚀I'm in Front-End Web Development Bootcamp Training with KODLUYORUZ. 
+- 🌱 I’m currently learning **Javascript,Vue, react, tailwind  and frontend tech.**🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
